@@ -4,5 +4,5 @@
 - js functions getSeconds(), getMinutes(), getHours()
 - position clockhand(s) every second~~ setInterval(updateClock, 1000) 
 
-![README IMAGE](analogClock.png)
+![README IMAGE](clock.gif)
 
